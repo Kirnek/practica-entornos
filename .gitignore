@@ -1,0 +1,11 @@
+# Dependencias y salidas de compilación
+/node_modules
+/dist
+/.angular
+/out-tsc
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
