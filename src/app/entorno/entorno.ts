@@ -12,7 +12,7 @@ import { Component } from '@angular/core';
   `]
 })
 export class EntornoComponent {
-  readonly etiqueta = 'PROD';
-  readonly mensaje = 'Entorno de producción';
-  readonly color = '#15803d';
+  readonly etiqueta = 'UAT';
+  readonly mensaje = 'Entorno de aceptación UAT';
+  readonly color = '#2563eb';
 }
